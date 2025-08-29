@@ -24,7 +24,7 @@
 ## 👨‍💻 About Me  
 I am a *Full Stack Developer* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from *India*.  
 
-- 🎓 Graduate *Information Technology* at Government Engineering college Modasa.  
+- 🎓 Graduate in *Information Technology* at Government Engineering college Modasa.  
 - 🌱 *Exploring* new technologies & building innovative web applications.  
 - ⚡ Passionate about *solving problems* and *reading tech articles* in my free time.  
 - 📫 *How to reach me:*  
