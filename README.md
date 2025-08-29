@@ -3,13 +3,13 @@
 </div>
  
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/aryanpatel1066/">
+  <a href="https://www.linkedin.com/in/patel-neel-38868730a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/Aryanpatel1066/">
+  <a href="https://www.instagram.com/_neelpatell/?next=%2F">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="mailto:aryanpatel1248@gmail.com">
+  <a href="mailto:pneel2710@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
