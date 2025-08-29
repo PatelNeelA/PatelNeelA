@@ -39,7 +39,7 @@ I am a *Full Stack Developer* <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ## 🔥 GitHub Stats  
  <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PatelNeelA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
   <img src="https://github-readme-stats.vercel.app/api?username=PatelNeelA&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
